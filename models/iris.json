@@ -1,0 +1,32 @@
+[
+    {
+        "false": {
+            "complexity": 0.05,
+            "loss": 0.00000008940697,
+            "name": "class",
+            "prediction": "Iris-setosa"
+        },
+        "feature": 2,
+        "name": "petal_length",
+        "reference": 2.45,
+        "relation": ">=",
+        "true": {
+            "false": {
+                "complexity": 0.05,
+                "loss": 0.026667,
+                "name": "class",
+                "prediction": "Iris-versicolor"
+            },
+            "feature" : 3,
+            "name": "petal_length",
+            "reference": 1.65,
+            "relation": ">=",
+            "true": {
+                "complexity": 0.05,
+                "loss": 0.013333,
+                "name": "class",
+                "prediction": "Iris-virginica"
+            }
+        }
+    }
+]

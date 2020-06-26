@@ -1,0 +1,6 @@
+fold_index,samples,features,binary_features,time,depth,leaves,nodes,training,test,tex
+NA,135,123,123,1300.814657738898,4,4,7,98.51851851851852,93.33333333333333,[ $petal_length \ge 2.45 \eq 1$ [ $petal_length \ge 4.95 \eq 0$ [ $petal_width \ge 1.65 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,123,913.4733816492371,3,3,5,97.77777777777777,80.0,[ $petal_length \ge 2.45 \eq 1$ [ $petal_width \ge 1.65 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,123,1002.4682557992637,4,4,7,97.77777777777777,93.33333333333333,[ $petal_length \ge 4.95 \eq 0$ [ $petal_width \ge 0.55 \eq 0$ [ $class$ [ $0$ ] ] [ $petal_width \ge 1.65 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,123,964.9828612399288,3,3,5,97.77777777777777,80.0,[ $petal_length \ge 2.45 \eq 1$ [ $petal_width \ge 1.75 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,123,1075.689199747052,3,3,5,96.29629629629629,93.33333333333333,[ $petal_length \ge 2.45 \eq 1$ [ $petal_width \ge 1.65 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ]

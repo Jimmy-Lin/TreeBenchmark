@@ -1,0 +1,74 @@
+fold_index,samples,features,binary_features,time,depth,leaves,nodes,training,test,tex
+NA,1,23,46,0.0,1,1,1,100.0,46.44644644644645,[ $class$ [ $0$ ] ]
+NA,2,23,46,0.0,2,2,3,100.0,47.69539078156313,[ $PercentTradesWBalance  \eq  67$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,3,23,60,0.0,2,2,3,100.0,63.390170511534606,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,4,23,74,0.0,2,2,3,100.0,63.35341365461847,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,5,23,89,0.0,2,2,3,100.0,60.30150753768844,[ $PercentTradesWBalance  \ge  50$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,6,23,100,0.0,2,2,3,100.0,60.26156941649899,[ $PercentTradesWBalance  \ge  50$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,7,23,115,0.0010000000474974513,2,2,3,100.0,60.22155085599194,[ $PercentTradesWBalance  \ge  50$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,8,23,125,0.010999999940395355,3,3,5,100.0,57.45967741935484,[ $PercentTradesWBalance  \ge  39$ [ $NumSatisfactoryTrades  \ge  36$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $class$ [ $0$ ] ] ]
+NA,9,23,134,0.04899999871850014,3,3,5,100.0,58.82946518668012,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $MSinceOldestTradeOpen  \ge  288$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,10,23,144,0.10999999940395355,3,3,5,100.0,47.97979797979798,[ $AverageMInFile  \ge  82$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,11,23,156,0.14100000262260437,3,3,5,100.0,47.92719919110212,[ $AverageMInFile  \ge  82$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,12,23,163,0.19699999690055847,3,3,5,100.0,47.874493927125506,[ $AverageMInFile  \ge  82$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,13,23,186,1.2300000190734863,3,3,5,100.0,47.82168186423505,[ $AverageMInFile  \ge  82$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,14,23,186,1.5130000114440918,3,3,5,100.0,47.76876267748479,[ $AverageMInFile  \ge  82$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,15,23,195,3.6589999198913574,4,4,7,100.0,58.88324873096447,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate  \ge  90$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ]
+NA,16,23,206,5.507999897003174,4,4,7,100.0,58.84146341463414,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate  \ge  90$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ]
+NA,17,23,216,1.809999942779541,4,4,7,100.0,58.79959308240081,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate  \ge  90$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ]
+NA,18,23,229,1.777999997138977,4,4,7,100.0,58.757637474541745,[ $ExternalRiskEstimate  \ge  90$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ]
+NA,19,23,229,2.0460000038146973,4,4,7,94.73684210526315,58.81753312945973,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate  \ge  90$ [ $class$ [ $1$ ] ] [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ]
+NA,20,23,236,17.593000411987305,3,4,7,95.0,54.48979591836734,[ $NumSatisfactoryTrades  \ge  20$ [ $NumTradesOpeninLast12M  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $NetFractionRevolvingBurden  \ge  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ]
+NA,22,23,248,9.336999893188477,3,4,7,90.9090909090909,49.693251533742334,[ $NumSatisfactoryTrades  \ge  21$ [ $NumTradesOpeninLast12M  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $MSinceMostRecentDelq  \ge  8$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,24,23,263,21.7189998626709,4,4,7,91.66666666666666,58.709016393442624,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $MSinceOldestTradeOpen  \ge  214$ [ $PercentInstallTrades  \ge  22$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $class$ [ $0$ ] ] ] ]
+NA,26,23,280,8.8100004196167,4,4,7,92.3076923076923,58.624229979466115,[ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $MSinceOldestTradeOpen  \ge  214$ [ $PercentInstallTrades  \ge  22$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $class$ [ $0$ ] ] ] ]
+NA,28,23,305,117.95099639892578,3,4,7,92.85714285714286,58.0246913580247,[ $PercentInstallTrades  \ge  22$ [ $PercentTradesWBalance  \ge  54$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $MSinceMostRecentDelq  \ge  39$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,30,23,320,-1,-1,-1,-1,-1,-1,NA
+NA,32,23,329,127.9749984741211,3,4,7,90.625,60.9504132231405,[ $PercentTradesWBalance  \ge  54$ [ $NetFractionRevolvingBurden  \ge  17$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $PercentInstallTrades  \ge  22$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,34,23,346,45.880001068115234,5,6,11,88.23529411764706,63.975155279503106,[ $MSinceMostRecentTradeOpen  \ge  41$ [ $class$ [ $1$ ] ] [ $NetFractionRevolvingBurden  \ge  59$ [ $class$ [ $1$ ] ] [ $MSinceMostRecentTradeOpen  \ge  8$ [ $NumInstallTradesWBalance  \ge  2$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $ExternalRiskEstimate  \ge  75$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,36,23,360,-1,-1,-1,-1,-1,-1,NA
+NA,38,23,371,-1,-1,-1,-1,-1,-1,NA
+NA,40,23,383,-1,-1,-1,-1,-1,-1,NA
+NA,45,23,410,-1,-1,-1,-1,-1,-1,NA
+NA,50,23,434,-1,-1,-1,-1,-1,-1,NA
+NA,55,23,458,-1,-1,-1,-1,-1,-1,NA
+NA,60,23,486,-1,-1,-1,-1,-1,-1,NA
+NA,65,23,508,-1,-1,-1,-1,-1,-1,NA
+NA,70,23,538,-1,-1,-1,-1,-1,-1,NA
+NA,75,23,558,-1,-1,-1,-1,-1,-1,NA
+NA,80,23,582,-1,-1,-1,-1,-1,-1,NA
+NA,85,23,601,-1,-1,-1,-1,-1,-1,NA
+NA,90,23,616,-1,-1,-1,-1,-1,-1,NA
+NA,100,23,655,-1,-1,-1,-1,-1,-1,NA
+NA,110,23,683,-1,-1,-1,-1,-1,-1,NA
+NA,120,23,716,-1,-1,-1,-1,-1,-1,NA
+NA,130,23,748,-1,-1,-1,-1,-1,-1,NA
+NA,140,23,777,-1,-1,-1,-1,-1,-1,NA
+NA,150,23,800,-1,-1,-1,-1,-1,-1,NA
+NA,160,23,817,-1,-1,-1,-1,-1,-1,NA
+NA,170,23,827,-1,-1,-1,-1,-1,-1,NA
+NA,180,23,844,-1,-1,-1,-1,-1,-1,NA
+NA,200,23,871,-1,-1,-1,-1,-1,-1,NA
+NA,220,23,913,-1,-1,-1,-1,-1,-1,NA
+NA,240,23,937,-1,-1,-1,-1,-1,-1,NA
+NA,260,23,966,-1,-1,-1,-1,-1,-1,NA
+NA,280,23,992,-1,-1,-1,-1,-1,-1,NA
+NA,300,23,1021,-1,-1,-1,-1,-1,-1,NA
+NA,325,23,1055,-1,-1,-1,-1,-1,-1,NA
+NA,350,23,1083,-1,-1,-1,-1,-1,-1,NA
+NA,375,23,1100,-1,-1,-1,-1,-1,-1,NA
+NA,400,23,1122,-1,-1,-1,-1,-1,-1,NA
+NA,425,23,1148,-1,-1,-1,-1,-1,-1,NA
+NA,450,23,1165,-1,-1,-1,-1,-1,-1,NA
+NA,475,23,1182,-1,-1,-1,-1,-1,-1,NA
+NA,500,23,1191,-1,-1,-1,-1,-1,-1,NA
+NA,550,23,1221,-1,-1,-1,-1,-1,-1,NA
+NA,600,23,1250,-1,-1,-1,-1,-1,-1,NA
+NA,650,23,1266,-1,-1,-1,-1,-1,-1,NA
+NA,700,23,1284,-1,-1,-1,-1,-1,-1,NA
+NA,750,23,1311,-1,-1,-1,-1,-1,-1,NA
+NA,800,23,1335,-1,-1,-1,-1,-1,-1,NA
+NA,850,23,1357,-1,-1,-1,-1,-1,-1,NA
+NA,900,23,1374,-1,-1,-1,-1,-1,-1,NA
+NA,950,23,1385,-1,-1,-1,-1,-1,-1,NA
+NA,1000,23,1407,-1,-1,-1,-1,-1,-1,NA

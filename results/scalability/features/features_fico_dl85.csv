@@ -1,0 +1,96 @@
+fold_index,samples,features,binary_features,time,depth,leaves,nodes,training,test,tex
+NA,900,1407,5,0.16198200918734074,2,2,3,53.333333333333336,55.00000000000001,[ $PercentTradesWBalance \ge -8.5 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $1$ ] ] ]
+NA,900,1407,6,0.009153201710432768,2,2,3,53.333333333333336,55.00000000000001,[ $PercentTradesWBalance \ge -8.5 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $1$ ] ] ]
+NA,900,1407,7,0.016888916958123446,3,3,5,53.55555555555556,55.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 13.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,8,0.03435369720682502,3,3,5,53.77777777777778,55.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 15.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,9,0.06786886462941766,3,3,5,54.11111111111111,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 17.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,10,0.13555546989664435,3,3,5,54.11111111111111,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 17.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,11,0.2430860730819404,3,3,5,54.22222222222223,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 19.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,12,0.425625653937459,3,3,5,54.333333333333336,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 21.0 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,13,0.7013725284487009,3,3,5,54.55555555555556,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 22.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,14,1.1022843858227134,3,3,5,54.666666666666664,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 24.0 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,15,1.7040584860369563,3,3,5,54.77777777777778,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 25.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,16,2.537640712223947,3,3,5,54.888888888888886,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 26.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,17,3.639281077310443,3,3,5,55.333333333333336,56.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 28.0 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,18,5.148539950139821,3,3,5,55.666666666666664,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 29.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,19,7.186682655010372,3,3,5,55.888888888888886,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 30.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,20,9.641497378237545,3,3,5,56.00000000000001,56.00000000000001,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 31.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,22,16.536408624146134,3,3,5,57.55555555555556,57.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 34.0 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,24,27.089916777331382,3,3,5,57.88888888888889,57.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 37.0 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,26,42.459198132157326,3,3,5,58.666666666666664,57.99999999999999,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,900,1407,28,66.17391373496503,4,5,9,59.66666666666667,62.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 41.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,900,1407,30,98.76905793929473,4,5,9,60.333333333333336,64.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,900,1407,32,147.35399184701964,4,5,9,60.333333333333336,64.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,900,1407,34,210.54155278997496,4,7,13,60.55555555555555,62.0,[ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $PercentTradesWBalance \ge 46.5 \eq 0$ [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 47.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,900,1407,36,285.4055171068758,4,7,13,60.66666666666667,62.0,[ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $PercentTradesWBalance \ge 46.5 \eq 0$ [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 48.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,900,1407,38,300.033196976874,5,9,17,63.0,67.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 46.5 \eq 0$ [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $PercentTradesWBalance \ge 49.5 \eq 0$ [ $PercentTradesWBalance \ge 48.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 52.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,900,1407,40,300.01984434202313,5,9,17,63.22222222222222,69.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 46.5 \eq 0$ [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $PercentTradesWBalance \ge 49.5 \eq 0$ [ $PercentTradesWBalance \ge 48.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 53.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,900,1407,42,300.02188024204224,5,9,17,63.77777777777778,68.0,[ $PercentTradesWBalance \ge 12.5 \eq 0$ [ $class$ [ $1$ ] ] [ $PercentTradesWBalance \ge 46.5 \eq 0$ [ $PercentTradesWBalance \ge 39.5 \eq 0$ [ $PercentTradesWBalance \ge 38.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 43.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $PercentTradesWBalance \ge 49.5 \eq 0$ [ $PercentTradesWBalance \ge 48.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $PercentTradesWBalance \ge 55.5 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,900,1407,44,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,46,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,48,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,50,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,52,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,54,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,56,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,58,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,60,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,65,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,70,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,75,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,80,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,85,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,90,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,95,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,100,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,105,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,110,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,120,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,130,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,140,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,150,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,160,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,170,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,180,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,190,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,210,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,220,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,230,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,240,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,250,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,260,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,270,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,280,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,290,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,300,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,325,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,350,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,375,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,400,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,425,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,450,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,475,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,500,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,525,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,550,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,575,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,600,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,625,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,650,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,675,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,700,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,750,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,800,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,850,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,900,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,950,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1000,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1050,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1100,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1150,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1200,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1250,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1300,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1350,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1400,-1,-1,-1,-1,-1,-1,NA
+NA,900,1407,1407,-1,-1,-1,-1,-1,-1,NA

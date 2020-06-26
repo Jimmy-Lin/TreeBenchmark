@@ -1,0 +1,49 @@
+fold_index,samples,features,binary_features,time,depth,leaves,nodes,training,test,tex
+NA,135,123,5,0.1528561976738274,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,6,0.004152185749262571,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,7,0.0054412949830293655,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,8,0.013323246967047453,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,9,0.032819713931530714,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,10,0.0624479609541595,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,11,0.11430113390088081,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,12,0.19476121105253696,2,2,3,65.92592592592592,73.33333333333333,[ $sepal_length \ge 4.35 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,13,0.3144736960530281,2,2,3,68.14814814814815,53.333333333333336,[ $sepal_length \ge 5.45 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,14,0.4924255018122494,2,2,3,71.85185185185186,66.66666666666666,[ $sepal_length \ge 5.55 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,15,0.8027797108516097,2,2,3,74.07407407407408,73.33333333333333,[ $sepal_length \ge 5.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,16,1.2606973890215158,2,2,3,78.51851851851852,73.33333333333333,[ $sepal_length \ge 5.75 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,17,1.9209964368492365,2,2,3,79.25925925925927,73.33333333333333,[ $sepal_length \ge 5.85 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,18,2.8069505132734776,2,2,3,79.25925925925927,73.33333333333333,[ $sepal_length \ge 5.85 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,19,3.981525158043951,2,2,3,80.74074074074075,80.0,[ $sepal_length \ge 6.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,20,5.535898381844163,2,2,3,82.22222222222221,80.0,[ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,22,10.060676272958517,2,2,3,82.22222222222221,80.0,[ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,24,17.114192902110517,2,2,3,82.22222222222221,80.0,[ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,26,28.120564544107765,3,4,7,82.96296296296296,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,135,123,28,43.20022344775498,3,4,7,82.96296296296296,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ]
+NA,135,123,30,66.71546392701566,4,6,11,83.7037037037037,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,32,89.97598951915279,4,6,11,83.7037037037037,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,34,122.42646277183667,4,6,11,83.7037037037037,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,36,141.44896462466568,4,6,11,83.7037037037037,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,38,201.43651631474495,4,7,13,84.44444444444444,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $sepal_width \ge 2.25 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,40,283.84221442230046,4,7,13,84.44444444444444,86.66666666666667,[ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $class$ [ $0$ ] ] [ $sepal_width \ge 2.25 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ]
+NA,135,123,42,300.043961271178,5,13,25,86.66666666666667,86.66666666666667,[ $sepal_length \ge 5.85 \eq 0$ [ $sepal_width \ge 2.55 \eq 1$ [ $class$ [ $0$ ] ] [ $sepal_length \ge 4.95 \eq 0$ [ $sepal_width \ge 2.45 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 5.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] [ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.15 \eq 0$ [ $sepal_width \ge 2.6500000000000004 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $sepal_width \ge 2.25 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,135,123,44,300.0346791241318,6,18,35,88.14814814814815,86.66666666666667,[ $sepal_length \ge 4.95 \eq 0$ [ $sepal_width \ge 2.45 \eq 0$ [ $class$ [ $0$ ] ] [ $sepal_width \ge 2.55 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $sepal_length \ge 6.15 \eq 0$ [ $sepal_width \ge 2.75 \eq 1$ [ $sepal_length \ge 5.65 \eq 0$ [ $sepal_width \ge 2.8499999999999996 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] [ $sepal_width \ge 2.55 \eq 0$ [ $sepal_length \ge 5.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] [ $sepal_length \ge 6.55 \eq 0$ [ $sepal_length \ge 6.45 \eq 0$ [ $sepal_width \ge 2.25 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_width \ge 2.8499999999999996 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $sepal_length \ge 6.95 \eq 0$ [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 7.05 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ] ]
+NA,135,123,46,300.0320833339356,5,15,29,88.14814814814815,80.0,[ $sepal_length \ge 6.15 \eq 0$ [ $sepal_length \ge 5.65 \eq 0$ [ $sepal_width \ge 2.75 \eq 0$ [ $class$ [ $0$ ] ] [ $sepal_width \ge 2.8499999999999996 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $sepal_length \ge 5.85 \eq 0$ [ $sepal_width \ge 2.55 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $sepal_width \ge 2.6500000000000004 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ] [ $sepal_length \ge 6.45 \eq 0$ [ $sepal_width \ge 2.8499999999999996 \eq 0$ [ $sepal_width \ge 2.25 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_width \ge 2.95 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] [ $sepal_length \ge 6.55 \eq 0$ [ $sepal_width \ge 2.8499999999999996 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] [ $sepal_length \ge 6.65 \eq 0$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ] ] ] ]
+NA,135,123,48,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,50,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,52,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,54,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,56,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,58,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,60,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,65,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,70,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,75,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,80,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,85,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,90,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,95,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,100,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,105,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,110,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,120,-1,-1,-1,-1,-1,-1,NA
+NA,135,123,123,-1,-1,-1,-1,-1,-1,NA

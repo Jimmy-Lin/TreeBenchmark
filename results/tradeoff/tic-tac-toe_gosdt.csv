@@ -1,0 +1,146 @@
+Data Set,Preprocessing,Classes,Samples,Features,Binary Features,Algorithm,Depth Limit,Width Limit,Regularization,Time Limit,Machine,Threads,Fold Index,Subsample,Subfeatures,Binary subfeatures,Training Time,Max Depth,# Leaves,# Nodes,Training Accuracy,Test Accuracy,Latex,Source
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.2,300,leviathan,1,0,958,9,24,0.0010000000474974513,1,1,1,56.6579634464752,100.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.2,300,leviathan,1,1,958,9,24,0.0010000000474974513,1,1,1,56.6579634464752,100.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.2,300,leviathan,1,2,958,9,24,0.0010000000474974513,1,1,1,56.6579634464752,100.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.2,300,leviathan,1,3,958,9,24,0.0,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.2,300,leviathan,1,4,958,9,24,0.0,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.1,300,leviathan,1,0,958,9,24,0.019999999552965164,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.1,300,leviathan,1,1,958,9,24,0.023000000044703484,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.1,300,leviathan,1,2,958,9,24,0.028999999165534973,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.1,300,leviathan,1,3,958,9,24,0.003000000026077032,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.1,300,leviathan,1,4,958,9,24,0.0010000000474974513,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.09,300,leviathan,1,0,958,9,24,0.024000000208616257,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.09,300,leviathan,1,1,958,9,24,0.05400000140070915,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.09,300,leviathan,1,2,958,9,24,0.06400000303983688,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.09,300,leviathan,1,3,958,9,24,0.010999999940395355,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.09,300,leviathan,1,4,958,9,24,0.0020000000949949026,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.08,300,leviathan,1,0,958,9,24,0.0689999982714653,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.08,300,leviathan,1,1,958,9,24,0.578000009059906,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.08,300,leviathan,1,2,958,9,24,0.2800000011920929,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.08,300,leviathan,1,3,958,9,24,0.02199999988079071,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.08,300,leviathan,1,4,958,9,24,0.0010000000474974513,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.07,300,leviathan,1,0,958,9,24,0.6209999918937683,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.07,300,leviathan,1,1,958,9,24,0.3490000069141388,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.07,300,leviathan,1,2,958,9,24,0.3409999907016754,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.07,300,leviathan,1,3,958,9,24,0.019999999552965164,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.07,300,leviathan,1,4,958,9,24,0.007000000216066837,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.06,300,leviathan,1,0,958,9,24,0.4099999964237213,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.06,300,leviathan,1,1,958,9,24,0.42800000309944153,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.06,300,leviathan,1,2,958,9,24,0.5519999861717224,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.06,300,leviathan,1,3,958,9,24,0.027000000700354576,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.06,300,leviathan,1,4,958,9,24,0.014999999664723873,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.05,300,leviathan,1,0,958,9,24,1.6549999713897705,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.05,300,leviathan,1,1,958,9,24,3.4579999446868896,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.05,300,leviathan,1,2,958,9,24,3.2139999866485596,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.05,300,leviathan,1,3,958,9,24,0.14499999582767487,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.05,300,leviathan,1,4,958,9,24,0.020999999716877937,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.04,300,leviathan,1,0,958,9,24,5.078999996185303,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.04,300,leviathan,1,1,958,9,24,12.737000465393066,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.04,300,leviathan,1,2,958,9,24,13.397000312805176,2,2,3,66.84073107049609,82.29166666666666,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.04,300,leviathan,1,3,958,9,24,0.49399998784065247,1,1,1,75.09778357235984,26.178010471204182,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.04,300,leviathan,1,4,958,9,24,0.06199999898672104,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.03,300,leviathan,1,0,958,9,24,31.31599998474121,2,2,3,70.10443864229765,69.27083333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.03,300,leviathan,1,1,958,9,24,46.236000061035156,2,2,3,67.75456919060052,78.64583333333334,[ $middle-middle-square  \eq  o$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.03,300,leviathan,1,2,958,9,24,47.55699920654297,5,5,9,76.63185378590079,65.10416666666666,[ $middle-middle-square  \eq  x$ [ $class$ [ $1$ ] ] [ $top-left-square  \eq  x$ [ $top-right-square  \eq  x$ [ $class$ [ $1$ ] ] [ $bottom-left-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $class$ [ $0$ ] ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.03,300,leviathan,1,3,958,9,24,4.439000129699707,4,4,7,85.00651890482399,34.554973821989535,[ $top-left-square  \eq  x$ [ $class$ [ $1$ ] ] [ $middle-middle-square  \eq  x$ [ $class$ [ $1$ ] ] [ $bottom-right-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.03,300,leviathan,1,4,958,9,24,0.6359999775886536,1,1,1,81.61668839634942,0.0,[ $class$ [ $1$ ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.02,300,leviathan,1,0,958,9,24,150.5330047607422,5,6,11,80.54830287206266,53.645833333333336,[ $middle-middle-square  \eq  x$ [ $class$ [ $1$ ] ] [ $bottom-right-square  \eq  x$ [ $top-right-square  \eq  x$ [ $middle-right-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $bottom-left-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $class$ [ $0$ ] ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.02,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.02,300,leviathan,1,2,958,9,24,183.25799560546875,5,5,9,76.63185378590079,65.10416666666666,[ $middle-middle-square  \eq  x$ [ $class$ [ $1$ ] ] [ $top-left-square  \eq  x$ [ $top-right-square  \eq  x$ [ $class$ [ $1$ ] ] [ $bottom-left-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $class$ [ $0$ ] ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.02,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.02,300,leviathan,1,4,958,9,24,13.928999900817871,4,4,7,88.13559322033898,21.98952879581152,[ $top-right-square  \eq  x$ [ $class$ [ $1$ ] ] [ $middle-middle-square  \eq  x$ [ $class$ [ $1$ ] ] [ $bottom-left-square  \eq  x$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] ],
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.01,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.01,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.01,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.01,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.01,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.009,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.009,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.009,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.009,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.009,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.008,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.008,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.008,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.008,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.008,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.007,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.007,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.007,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.007,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.007,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.006,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.006,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.006,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.006,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.006,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.005,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.005,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.005,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.005,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.005,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.004,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.004,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.004,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.004,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.004,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.003,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.003,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.003,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.003,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.003,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.002,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.002,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.002,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.002,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.002,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.001,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.001,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.001,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.001,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.001,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0009,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0009,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0009,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0009,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0009,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0008,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0008,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0008,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0008,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0008,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0007,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0007,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0007,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0007,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0007,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0006,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0006,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0006,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0006,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0006,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0005,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0005,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0005,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0005,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0005,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0004,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0004,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0004,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0004,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0004,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0003,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0003,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0003,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0003,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0003,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0002,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0002,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0002,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0002,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0002,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0001,300,leviathan,1,0,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0001,300,leviathan,1,1,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0001,300,leviathan,1,2,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0001,300,leviathan,1,3,958,9,24,-1,-1,-1,-1,NA,NA
+tic-tac-toe,complete,2,958,9,24,gosdt,None,None,0.0001,300,leviathan,1,4,958,9,24,-1,-1,-1,-1,NA,NA

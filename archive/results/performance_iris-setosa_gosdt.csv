@@ -1,0 +1,6 @@
+fold_index,samples,features,binary_features,time,depth,leaves,nodes,training,test,tex
+NA,135,123,123,0.8062934740446508,2,2,3,100.0,100.0,[ $petal_length \ge 2.45 \eq 1$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,123,0.8302627727389336,2,2,3,100.0,100.0,[ $petal_length \ge 2.45 \eq 1$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,123,0.7866369490511715,2,2,3,100.0,93.33333333333333,[ $petal_width \ge 0.55 \eq 0$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ]
+NA,135,123,123,0.7690410832874477,2,2,3,100.0,100.0,[ $petal_length \ge 2.45 \eq 1$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]
+NA,135,123,123,0.7887275880202651,2,2,3,100.0,100.0,[ $petal_length \ge 2.45 \eq 1$ [ $class$ [ $0$ ] ] [ $class$ [ $1$ ] ] ]

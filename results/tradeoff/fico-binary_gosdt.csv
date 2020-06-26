@@ -1,0 +1,146 @@
+Data Set,Preprocessing,Classes,Samples,Features,Binary Features,Algorithm,Depth Limit,Width Limit,Regularization,Time Limit,Machine,Threads,Fold Index,Subsample,Subfeatures,Binary subfeatures,Training Time,Max Depth,# Leaves,# Nodes,Training Accuracy,Test Accuracy,Latex,Source
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.2,300,leviathan,1,0,10459,17,32,0.0010000000474974513,1,1,1,50.86649934265567,57.504780114722756,[ $class$ [ $0$ ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.2,300,leviathan,1,1,10459,17,32,0.003000000026077032,1,1,1,52.981952910242626,49.043977055449325,[ $class$ [ $0$ ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.2,300,leviathan,1,2,10459,17,32,0.0020000000949949026,1,1,1,52.324608581331425,51.673040152963665,[ $class$ [ $0$ ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.2,300,leviathan,1,3,10459,17,32,0.0020000000949949026,1,1,1,51.79873311820246,53.77629063097514,[ $class$ [ $0$ ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.2,300,leviathan,1,4,10459,17,32,0.0020000000949949026,1,1,1,52.99952198852772,48.97178383548542,[ $class$ [ $0$ ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.1,300,leviathan,1,0,10459,17,32,0.009999999776482582,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.1,300,leviathan,1,1,10459,17,32,0.003000000026077032,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.1,300,leviathan,1,2,10459,17,32,0.0020000000949949026,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.1,300,leviathan,1,3,10459,17,32,0.0020000000949949026,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.1,300,leviathan,1,4,10459,17,32,0.0020000000949949026,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.09,300,leviathan,1,0,10459,17,32,0.014000000432133675,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.09,300,leviathan,1,1,10459,17,32,0.004999999888241291,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.09,300,leviathan,1,2,10459,17,32,0.004999999888241291,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.09,300,leviathan,1,3,10459,17,32,0.004999999888241291,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.09,300,leviathan,1,4,10459,17,32,0.008999999612569809,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.08,300,leviathan,1,0,10459,17,32,0.017000000923871994,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.08,300,leviathan,1,1,10459,17,32,0.010999999940395355,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.08,300,leviathan,1,2,10459,17,32,0.012000000104308128,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.08,300,leviathan,1,3,10459,17,32,0.012000000104308128,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.08,300,leviathan,1,4,10459,17,32,0.014999999664723873,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.07,300,leviathan,1,0,10459,17,32,0.01899999938905239,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.07,300,leviathan,1,1,10459,17,32,0.01600000075995922,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.07,300,leviathan,1,2,10459,17,32,0.014000000432133675,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.07,300,leviathan,1,3,10459,17,32,0.014000000432133675,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.07,300,leviathan,1,4,10459,17,32,0.01600000075995922,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.06,300,leviathan,1,0,10459,17,32,0.019999999552965164,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.06,300,leviathan,1,1,10459,17,32,0.01600000075995922,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.06,300,leviathan,1,2,10459,17,32,0.017999999225139618,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.06,300,leviathan,1,3,10459,17,32,0.01899999938905239,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.06,300,leviathan,1,4,10459,17,32,0.01899999938905239,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.05,300,leviathan,1,0,10459,17,32,0.03099999949336052,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.05,300,leviathan,1,1,10459,17,32,0.019999999552965164,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.05,300,leviathan,1,2,10459,17,32,0.01899999938905239,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.05,300,leviathan,1,3,10459,17,32,0.01899999938905239,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.05,300,leviathan,1,4,10459,17,32,0.01899999938905239,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.04,300,leviathan,1,0,10459,17,32,0.0560000017285347,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.04,300,leviathan,1,1,10459,17,32,0.029999999329447746,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.04,300,leviathan,1,2,10459,17,32,0.03799999877810478,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.04,300,leviathan,1,3,10459,17,32,0.03799999877810478,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.04,300,leviathan,1,4,10459,17,32,0.041999999433755875,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.03,300,leviathan,1,0,10459,17,32,0.2590000033378601,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.03,300,leviathan,1,1,10459,17,32,0.08799999952316284,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.03,300,leviathan,1,2,10459,17,32,0.10700000077486038,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.03,300,leviathan,1,3,10459,17,32,0.11400000005960464,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.03,300,leviathan,1,4,10459,17,32,0.15600000321865082,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.02,300,leviathan,1,0,10459,17,32,2.0889999866485596,2,2,3,69.55898171387595,69.74187380497132,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.02,300,leviathan,1,1,10459,17,32,0.5630000233650208,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.02,300,leviathan,1,2,10459,17,32,0.6639999747276306,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.02,300,leviathan,1,3,10459,17,32,0.9610000252723694,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.02,300,leviathan,1,4,10459,17,32,0.8149999976158142,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.01,300,leviathan,1,0,10459,17,32,46.020999908447266,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.01,300,leviathan,1,1,10459,17,32,23.075000762939453,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.01,300,leviathan,1,2,10459,17,32,27.825000762939453,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.01,300,leviathan,1,3,10459,17,32,28.090999603271484,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.01,300,leviathan,1,4,10459,17,32,31.68000030517578,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.009,300,leviathan,1,0,10459,17,32,63.32699966430664,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.009,300,leviathan,1,1,10459,17,32,35.70000076293945,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.009,300,leviathan,1,2,10459,17,32,42.624000549316406,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.009,300,leviathan,1,3,10459,17,32,44.00699996948242,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.009,300,leviathan,1,4,10459,17,32,47.79399871826172,2,2,3,69.39531548757171,69.53610712577714,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.008,300,leviathan,1,0,10459,17,32,85.6050033569336,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.008,300,leviathan,1,1,10459,17,32,54.790000915527344,2,2,3,69.60678857416039,68.69024856596559,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.008,300,leviathan,1,2,10459,17,32,63.40800094604492,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.008,300,leviathan,1,3,10459,17,32,63.94599914550781,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.008,300,leviathan,1,4,10459,17,32,68.61799621582031,4,4,7,71.1281070745698,71.16212338593975,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.007,300,leviathan,1,0,10459,17,32,111.65399932861328,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.007,300,leviathan,1,1,10459,17,32,80.4020004272461,4,4,7,71.14855981833394,71.08030592734225,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.007,300,leviathan,1,2,10459,17,32,89.36100006103516,2,2,3,69.7143540098004,69.12045889101339,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.007,300,leviathan,1,3,10459,17,32,91.4020004272461,2,2,3,69.89362973586711,68.40344168260039,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.007,300,leviathan,1,4,10459,17,32,95.41000366210938,4,4,7,71.1281070745698,71.16212338593975,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.006,300,leviathan,1,0,10459,17,32,147.7689971923828,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.006,300,leviathan,1,1,10459,17,32,114.73999786376953,4,4,7,71.14855981833394,71.08030592734225,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.006,300,leviathan,1,2,10459,17,32,125.96199798583984,3,3,5,70.38365005378272,69.5506692160612,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $TradeOpenTime<0.85  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.006,300,leviathan,1,3,10459,17,32,127.66600036621094,4,4,7,71.29198039918728,70.50669216061185,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.006,300,leviathan,1,4,10459,17,32,130.75399780273438,4,4,7,71.1281070745698,71.16212338593975,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.005,300,leviathan,1,0,10459,17,32,201.25900268554688,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.005,300,leviathan,1,1,10459,17,32,162.14999389648438,4,4,7,71.14855981833394,71.08030592734225,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.005,300,leviathan,1,2,10459,17,32,177.44900512695312,3,3,5,70.38365005378272,69.5506692160612,[ $ExternalRiskEstimate<0.65  \eq  1$ [ $TradeOpenTime<0.85  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.005,300,leviathan,1,3,10459,17,32,178.23500061035156,4,4,7,71.29198039918728,70.50669216061185,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.005,300,leviathan,1,4,10459,17,32,182.08700561523438,4,4,7,71.1281070745698,71.16212338593975,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.004,300,leviathan,1,0,10459,17,32,282.8559875488281,4,4,7,71.8656627226007,64.1491395793499,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.80  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.004,300,leviathan,1,1,10459,17,32,237.8780059814453,5,5,9,71.56686984582288,70.98470363288719,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $TradeFrequency<0.45  \eq  1$ [ $class$ [ $1$ ] ] [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.004,300,leviathan,1,2,10459,17,32,258.6730041503906,4,4,7,70.81391179634278,72.4187380497132,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.004,300,leviathan,1,3,10459,17,32,260.33099365234375,4,4,7,71.29198039918728,70.50669216061185,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.004,300,leviathan,1,4,10459,17,32,271.3059997558594,4,4,7,71.1281070745698,71.16212338593975,[ $ExternalRiskEstimate<0.49  \eq  1$ [ $class$ [ $1$ ] ] [ $ExternalRiskEstimate<0.65  \eq  1$ [ $Inquiry<0.75  \eq  1$ [ $class$ [ $1$ ] ] [ $class$ [ $0$ ] ] ] [ $class$ [ $0$ ] ] ] ],
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.003,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.003,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.003,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.003,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.003,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.002,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.002,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.002,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.002,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.002,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.001,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.001,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.001,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.001,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.001,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0009,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0009,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0009,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0009,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0009,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0008,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0008,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0008,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0008,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0008,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0007,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0007,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0007,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0007,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0007,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0006,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0006,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0006,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0006,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0006,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0005,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0005,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0005,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0005,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0005,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0004,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0004,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0004,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0004,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0004,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0003,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0003,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0003,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0003,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0003,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0002,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0002,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0002,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0002,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0002,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0001,300,leviathan,1,0,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0001,300,leviathan,1,1,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0001,300,leviathan,1,2,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0001,300,leviathan,1,3,10459,17,32,-1,-1,-1,-1,NA,NA
+fico-binary,complete,2,10459,17,32,gosdt,None,None,0.0001,300,leviathan,1,4,10459,17,32,-1,-1,-1,-1,NA,NA

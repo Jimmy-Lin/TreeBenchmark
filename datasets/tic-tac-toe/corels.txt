@@ -1,0 +1,1 @@
+./corels -t 8 -c 2 -p 1 -v log -r 0.06 -n 100000000 ../data/tdata_R.out ../data/tdata_R.label

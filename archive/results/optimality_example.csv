@@ -1,0 +1,7 @@
+discretization,optimization,training_accuracy(%),nodes,leaves
+midpoints,BinOCT,93.5064935064935,7,4
+bucketize,BinOCT,92.20779220779221,7,4
+midpoints,DL8.5,93.5064935064935,7,4
+bucketize,DL8.5,92.20779220779221,7,4
+midpoints,GOSDT,93.5064935064935,7,4
+bucketize,GOSDT,92.20779220779221,7,4
