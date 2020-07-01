@@ -1,4 +1,4 @@
 {
-    "regularization": 0.03125,
+    "regularization": 0.03,
     "verbose": true
 }

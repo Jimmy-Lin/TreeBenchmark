@@ -52,7 +52,7 @@ def plot_scalability(dataset, algorithms):
                 plt.ylabel(y_label)
                 plt.xlim(-x_max*0.01, x_max * 1.5)
                 plt.legend()
-                plt.title("Time vs Number of Features\n({})".format(y_label, x_label, dataset))
+                plt.title("{} vs {}\n({})".format(y_label, x_label, dataset))
 
                 if scale == "small":
                     plt.ylim(-5, 100)
